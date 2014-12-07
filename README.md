@@ -3,4 +3,4 @@ Snippets.scala
 
 Code snippets exploring scala language features. 
 
-* **(a)** A Simple list shuffle example in scala
+* A simple list shuffle example in scala
