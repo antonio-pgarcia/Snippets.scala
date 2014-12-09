@@ -8,7 +8,7 @@ object ListShuffle {
     l.head
   }
 
-  // -- | Emulation of Haskell fst (Lisp cdr)
+  // -- | Emulation of Haskell snd (Lisp cdr)
   def snd(l: (List[Any],List[Any])): List[Any] = l._2
   def snd(l: List[Any]): List[Any] = {
     l.tail
