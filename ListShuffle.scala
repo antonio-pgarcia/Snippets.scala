@@ -27,9 +27,7 @@ object ListShuffle {
         }
     }
   }
-      
-    
-  
+
   // -- | Generate random number within interval a-b with seed s
   def myrandom(a: Int, b: Int, s: Int) : Int = {
     val r = new scala.util.Random
